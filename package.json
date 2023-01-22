@@ -1,7 +1,7 @@
 {
   "name": "shore",
   "version": "0.1.0",
-  "homepage": "https:/Mr-Jerry-Haxor.github.io/shore-mainpage",
+  "homepage": "https://mr-jerry-haxor.github.io/shore-mainpage",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.14",
