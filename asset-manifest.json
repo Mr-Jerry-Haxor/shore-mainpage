@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mr-Jerry-Haxor.github.io/shore-mainpage/static/css/main.0d942ddf.css",
-    "main.js": "/Mr-Jerry-Haxor.github.io/shore-mainpage/static/js/main.086368e7.js",
-    "static/js/787.13a79cde.chunk.js": "/Mr-Jerry-Haxor.github.io/shore-mainpage/static/js/787.13a79cde.chunk.js",
-    "index.html": "/Mr-Jerry-Haxor.github.io/shore-mainpage/index.html",
-    "main.0d942ddf.css.map": "/Mr-Jerry-Haxor.github.io/shore-mainpage/static/css/main.0d942ddf.css.map",
-    "main.086368e7.js.map": "/Mr-Jerry-Haxor.github.io/shore-mainpage/static/js/main.086368e7.js.map",
-    "787.13a79cde.chunk.js.map": "/Mr-Jerry-Haxor.github.io/shore-mainpage/static/js/787.13a79cde.chunk.js.map"
+    "main.css": "/shore-mainpage/static/css/main.0d942ddf.css",
+    "main.js": "/shore-mainpage/static/js/main.c840ef65.js",
+    "static/js/787.13a79cde.chunk.js": "/shore-mainpage/static/js/787.13a79cde.chunk.js",
+    "index.html": "/shore-mainpage/index.html",
+    "main.0d942ddf.css.map": "/shore-mainpage/static/css/main.0d942ddf.css.map",
+    "main.c840ef65.js.map": "/shore-mainpage/static/js/main.c840ef65.js.map",
+    "787.13a79cde.chunk.js.map": "/shore-mainpage/static/js/787.13a79cde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d942ddf.css",
-    "static/js/main.086368e7.js"
+    "static/js/main.c840ef65.js"
   ]
 }
