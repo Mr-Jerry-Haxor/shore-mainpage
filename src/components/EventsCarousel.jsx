@@ -18,7 +18,7 @@ const responsive=[
       cols: 1,
       rows: 1,
       loop: true,
-      autoplay: false,
+      autoplay: true,
       hideArrow:false,
       showDots:true,
       scrollSnap:true,
